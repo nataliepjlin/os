@@ -1,0 +1,3 @@
+[submodule "mp2"]
+	path = mp2
+	url = https://github.com/nataliepjlin/os-mp2
